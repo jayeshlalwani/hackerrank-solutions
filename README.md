@@ -1,4 +1,4 @@
-![HackerRank](https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png)
+[![HackerRank](https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png)](https://www.hackerrank.com/lalwanijayesh)
 # Solutions to HackerRank challenges
 This repository is a collection of solutions to programming challenges on [HackerRank](https://www.hackerrank.com).
 
